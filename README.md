@@ -296,4 +296,4 @@ You can see the measured latency time for inference or execution and FPS on the 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
