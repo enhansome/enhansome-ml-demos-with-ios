@@ -86,7 +86,7 @@ Once the compatible model is prepared, you can run the inference using the ML fr
 
 | Name                                                                                                                      | DEMO                                                                                      | Note |
 | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---- |
-| [ObjectDetection-CoreML](https://github.com/tucan9389/ObjectDetection-CoreML) ⭐ 343 \| 🐛 12 \| 🌐 Swift \| 📅 2023-07-01 | <p align="center"><img src="Resource/SSDMobileNetV2-DEMO.gif" width="200"/></p>           | -    |
+| [ObjectDetection-CoreML](https://github.com/tucan9389/ObjectDetection-CoreML) ⭐ 344 \| 🐛 12 \| 🌐 Swift \| 📅 2023-07-01 | <p align="center"><img src="Resource/SSDMobileNetV2-DEMO.gif" width="200"/></p>           | -    |
 | [TextDetection-CoreML](https://github.com/tucan9389/TextDetection-CoreML) ⭐ 84 \| 🐛 0 \| 🌐 Swift \| 📅 2019-02-20       | <p align="center"><img src="Resource/TextDetection-CoreML_DEMO001.gif" width="200"/></p>  | -    |
 | [TextRecognition-MLKit](https://github.com/tucan9389/TextRecognition-MLKit) ⭐ 98 \| 🐛 1 \| 🌐 Swift \| 📅 2019-06-25     | <p align="center"><img src="Resource/TextRecognition-MLKit_DEMO002.gif" width="200"/></p> | -    |
 | [FaceDetection-MLKit](https://github.com/tucan9389/FaceDetection-MLKit) ⭐ 22 \| 🐛 0 \| 🌐 Swift \| 📅 2019-03-26         | <p align="center"><img src="Resource/FaceDetection-MLKit-DEMO.gif" width="200"/></p>      | -    |
@@ -283,7 +283,7 @@ You can see the measured latency time for inference or execution and FPS on the 
 ### Examples
 
 * Training
-  * Pytorch examples: <https://github.com/pytorch/examples> ⭐ 24,006 | 🐛 251 | 🌐 Python | 📅 2025-09-01
+  * Pytorch examples: <https://github.com/pytorch/examples> ⭐ 24,007 | 🐛 251 | 🌐 Python | 📅 2025-09-01
   * Keras examples: <https://keras.io/examples/>
 * Inference
   * TFLite examples: <https://github.com/tensorflow/examples/tree/master/lite> ⭐ 8,279 | 🐛 134 | 🌐 Jupyter Notebook | 📅 2026-07-31
@@ -296,4 +296,4 @@ You can see the measured latency time for inference or execution and FPS on the 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
