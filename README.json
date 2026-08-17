@@ -94,7 +94,7 @@
                 "last_commit": "2025-09-01T17:21:47Z",
                 "owner": "pytorch",
                 "repo": "examples",
-                "stars": 24008
+                "stars": 24007
               }
             }
           ]
@@ -112,10 +112,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-07-31T17:50:03Z",
+                "last_commit": "2026-08-17T06:51:09Z",
                 "owner": "tensorflow",
                 "repo": "examples",
-                "stars": 8278
+                "stars": 8279
               }
             },
             {
@@ -153,7 +153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:49:29.221Z",
+    "last_updated": "2026-08-17T08:04:58.452Z",
     "original_repository": "tucan9389/awesome-ml-demos-with-ios",
     "original_repository_sha": "803759305ac737ab1712d7f1056d40c0724a6830",
     "enhanced_repository": "enhansome/enhansome-ml-demos-with-ios",
