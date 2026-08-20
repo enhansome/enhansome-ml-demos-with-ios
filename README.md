@@ -2,7 +2,7 @@
 <img src="Resource/awesome-ml-demos-with-ios-logo.png" width="187" height="174"/>
 </p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/motlabs/awesome-ml-demos-with-ios) ⭐ 1,289 | 🐛 12 | 🌐 Python | 📅 2021-03-21 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmotlabs%2Fawesome-ml-demos-with-ios) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GIF PRs More Welcome](https://img.shields.io/badge/GIF--PRs-WELCOME!-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/motlabs/awesome-ml-demos-with-ios) ⭐ 1,290 | 🐛 12 | 🌐 Python | 📅 2021-03-21 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmotlabs%2Fawesome-ml-demos-with-ios) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GIF PRs More Welcome](https://img.shields.io/badge/GIF--PRs-WELCOME!-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 > This repo was moved from [@motlabs](https://github.com/motlabs) group. Thanks for [@jwkanggist](https://github.com/jwkanggist) who is a leader of motlabs community.
 
@@ -10,7 +10,7 @@
 
 We tackle the challenge of using machine learning models on iOS via Core ML and ML Kit (TensorFlow Lite).
 
-[한국어 README](https://github.com/motlabs/iOS-Proejcts-with-ML-Models/blob/master/README_kr.md) ⭐ 1,289 | 🐛 12 | 🌐 Python | 📅 2021-03-21
+[한국어 README](https://github.com/motlabs/iOS-Proejcts-with-ML-Models/blob/master/README_kr.md) ⭐ 1,290 | 🐛 12 | 🌐 Python | 📅 2021-03-21
 
 ## Contents
 
@@ -283,10 +283,10 @@ You can see the measured latency time for inference or execution and FPS on the 
 ### Examples
 
 * Training
-  * Pytorch examples: <https://github.com/pytorch/examples> ⭐ 24,009 | 🐛 252 | 🌐 Python | 📅 2025-09-01
+  * Pytorch examples: <https://github.com/pytorch/examples> ⭐ 24,010 | 🐛 252 | 🌐 Python | 📅 2025-09-01
   * Keras examples: <https://keras.io/examples/>
 * Inference
-  * TFLite examples: <https://github.com/tensorflow/examples/tree/master/lite> ⭐ 8,278 | 🐛 134 | 🌐 Jupyter Notebook | 📅 2026-08-17
+  * TFLite examples: <https://github.com/tensorflow/examples/tree/master/lite> ⭐ 8,279 | 🐛 134 | 🌐 Jupyter Notebook | 📅 2026-08-17
   * Pytorch Mobile iOS example: <https://github.com/pytorch/ios-demo-app> ⚠️ Archived
   * FritzLabs examples: <https://github.com/fritzlabs/fritz-examples> ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2023-04-07
 * Models
@@ -296,4 +296,4 @@ You can see the measured latency time for inference or execution and FPS on the 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
