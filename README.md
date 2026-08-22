@@ -283,7 +283,7 @@ You can see the measured latency time for inference or execution and FPS on the 
 ### Examples
 
 * Training
-  * Pytorch examples: <https://github.com/pytorch/examples> ⭐ 24,009 | 🐛 252 | 🌐 Python | 📅 2025-09-01
+  * Pytorch examples: <https://github.com/pytorch/examples> ⭐ 24,011 | 🐛 252 | 🌐 Python | 📅 2025-09-01
   * Keras examples: <https://keras.io/examples/>
 * Inference
   * TFLite examples: <https://github.com/tensorflow/examples/tree/master/lite> ⭐ 8,281 | 🐛 134 | 🌐 Jupyter Notebook | 📅 2026-08-17
@@ -296,4 +296,4 @@ You can see the measured latency time for inference or execution and FPS on the 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
