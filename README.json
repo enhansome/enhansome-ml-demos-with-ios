@@ -6,6 +6,285 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "ImageClassification-CoreML",
+              "description": "-",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136997812,
+                "language": "Swift",
+                "last_commit": "2020-12-04T12:59:00Z",
+                "owner": "tucan9389",
+                "repo": "ImageClassification-CoreML",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MobileNet-MLKit",
+              "description": "-",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137035131,
+                "language": "Swift",
+                "last_commit": "2019-02-20T03:30:06Z",
+                "owner": "tucan9389",
+                "repo": "MobileNet-MLKit",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Image Classification"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ObjectDetection-CoreML",
+              "description": "-",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168563766,
+                "language": "Swift",
+                "last_commit": "2023-07-01T13:39:41Z",
+                "owner": "tucan9389",
+                "repo": "ObjectDetection-CoreML",
+                "stars": 344
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TextDetection-CoreML",
+              "description": "-",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 171705465,
+                "language": "Swift",
+                "last_commit": "2019-02-20T20:05:53Z",
+                "owner": "tucan9389",
+                "repo": "TextDetection-CoreML",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TextRecognition-MLKit",
+              "description": "-",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 171720159,
+                "language": "Swift",
+                "last_commit": "2019-06-25T02:04:52Z",
+                "owner": "tucan9389",
+                "repo": "TextRecognition-MLKit",
+                "stars": 98
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FaceDetection-MLKit",
+              "description": "-",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177786819,
+                "language": "Swift",
+                "last_commit": "2019-03-26T23:50:12Z",
+                "owner": "tucan9389",
+                "repo": "FaceDetection-MLKit",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Object Detection & Recognition"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PoseEstimation-CoreML",
+              "description": "-",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139738360,
+                "language": "Swift",
+                "last_commit": "2021-08-13T04:30:11Z",
+                "owner": "tucan9389",
+                "repo": "PoseEstimation-CoreML",
+                "stars": 702
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PoseEstimation-TFLiteSwift",
+              "description": "-",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247087396,
+                "language": "Swift",
+                "last_commit": "2022-09-04T19:17:28Z",
+                "owner": "tucan9389",
+                "repo": "PoseEstimation-TFLiteSwift",
+                "stars": 158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PoseEstimation-MLKit",
+              "description": "-",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141969792,
+                "language": "Swift",
+                "last_commit": "2019-03-11T00:35:30Z",
+                "owner": "tucan9389",
+                "repo": "PoseEstimation-MLKit",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FingertipEstimation-CoreML",
+              "description": "-",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145089980,
+                "language": "Swift",
+                "last_commit": "2018-08-28T16:31:51Z",
+                "owner": "tucan9389",
+                "repo": "FingertipEstimation-CoreML",
+                "stars": 70
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Pose Estimation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DepthPrediction-CoreML",
+              "description": "-",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 197880919,
+                "language": "Swift",
+                "last_commit": "2021-06-15T14:32:24Z",
+                "owner": "tucan9389",
+                "repo": "DepthPrediction-CoreML",
+                "stars": 139
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Depth Prediction"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SemanticSegmentation-CoreML",
+              "description": "-",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 197925144,
+                "language": "Swift",
+                "last_commit": "2021-03-27T11:51:25Z",
+                "owner": "tucan9389",
+                "repo": "SemanticSegmentation-CoreML",
+                "stars": 342
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Semantic Segmentation"
+        }
+      ],
+      "title": "Baseline Projects"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dont-be-turtle-ios",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145299783,
+            "language": "Swift",
+            "last_commit": "2018-08-29T08:30:12Z",
+            "owner": "motlabs",
+            "repo": "dont-be-turtle-ios",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WordRecognition-CoreML-MLKit",
+          "description": "(preparing...) Detect character, find a word what I point and then recognize the word using Core ML and ML Kit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 143398521,
+            "language": null,
+            "last_commit": "2018-08-03T08:12:05Z",
+            "owner": "tucan9389",
+            "repo": "WordRecognition-CoreML-MLKit",
+            "stars": 3
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KeypointAnnotation",
+              "description": "Annotation tool for own custom estimation dataset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144368850,
+                "language": "Swift",
+                "last_commit": "2020-02-29T12:57:22Z",
+                "owner": "tucan9389",
+                "repo": "KeypointAnnotation",
+                "stars": 42
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Annotation Tool"
+        }
+      ],
+      "title": "Application Projects"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
               "node_type": "group",
               "title": "Training",
               "description": null,
@@ -89,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:08:25.441Z",
+    "last_updated": "2026-08-24T14:17:23.581Z",
     "original_repository": "tucan9389/awesome-ml-demos-with-ios",
     "original_repository_id": 134490697,
     "original_repository_sha": "803759305ac737ab1712d7f1056d40c0724a6830",
