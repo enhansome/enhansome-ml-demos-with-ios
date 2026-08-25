@@ -286,7 +286,7 @@ You can see the measured latency time for inference or execution and FPS on the 
   * Pytorch examples: <https://github.com/pytorch/examples> ⭐ 24,013 | 🐛 252 | 🌐 Python | 📅 2025-09-01
   * Keras examples: <https://keras.io/examples/>
 * Inference
-  * TFLite examples: <https://github.com/tensorflow/examples/tree/master/lite> ⭐ 8,281 | 🐛 134 | 🌐 Jupyter Notebook | 📅 2026-08-17
+  * TFLite examples: <https://github.com/tensorflow/examples/tree/master/lite> ⭐ 8,280 | 🐛 134 | 🌐 Jupyter Notebook | 📅 2026-08-24
   * Pytorch Mobile iOS example: <https://github.com/pytorch/ios-demo-app> ⚠️ Archived
   * FritzLabs examples: <https://github.com/fritzlabs/fritz-examples> ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2023-04-07
 * Models
@@ -296,4 +296,4 @@ You can see the measured latency time for inference or execution and FPS on the 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

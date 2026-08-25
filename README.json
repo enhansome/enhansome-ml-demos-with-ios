@@ -242,7 +242,7 @@
         {
           "node_type": "item",
           "title": "WordRecognition-CoreML-MLKit",
-          "description": "(preparing...) Detect character, find a word what I point and then recognize the word using Core ML and ML Kit.",
+          "description": "(preparing...)  Detect character, find a word what I point and then recognize the word using Core ML and ML Kit.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -320,10 +320,10 @@
                     "archived": false,
                     "id": 141200054,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-17T06:51:09Z",
+                    "last_commit": "2026-08-24T15:23:17Z",
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8281
+                    "stars": 8280
                   }
                 },
                 {
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:17:23.581Z",
+    "last_updated": "2026-08-25T06:05:43.948Z",
     "original_repository": "tucan9389/awesome-ml-demos-with-ios",
     "original_repository_id": 134490697,
     "original_repository_sha": "803759305ac737ab1712d7f1056d40c0724a6830",
