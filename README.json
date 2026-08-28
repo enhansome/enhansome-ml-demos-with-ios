@@ -18,7 +18,8 @@
                 "owner": "tucan9389",
                 "repo": "ImageClassification-CoreML",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T19:29:08.278Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "tucan9389",
                 "repo": "MobileNet-MLKit",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T19:29:08.278Z"
             }
           ],
           "description": null,
@@ -55,7 +57,8 @@
                 "owner": "tucan9389",
                 "repo": "ObjectDetection-CoreML",
                 "stars": 344
-              }
+              },
+              "first_seen": "2026-08-28T19:29:08.278Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "tucan9389",
                 "repo": "TextDetection-CoreML",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T19:29:08.278Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "tucan9389",
                 "repo": "TextRecognition-MLKit",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-28T19:29:08.278Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "tucan9389",
                 "repo": "FaceDetection-MLKit",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T19:29:08.278Z"
             }
           ],
           "description": null,
@@ -122,7 +128,8 @@
                 "owner": "tucan9389",
                 "repo": "PoseEstimation-CoreML",
                 "stars": 702
-              }
+              },
+              "first_seen": "2026-08-28T19:29:08.278Z"
             },
             {
               "node_type": "item",
@@ -137,7 +144,8 @@
                 "owner": "tucan9389",
                 "repo": "PoseEstimation-TFLiteSwift",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-28T19:29:08.278Z"
             },
             {
               "node_type": "item",
@@ -152,7 +160,8 @@
                 "owner": "tucan9389",
                 "repo": "PoseEstimation-MLKit",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T19:29:08.278Z"
             },
             {
               "node_type": "item",
@@ -167,7 +176,8 @@
                 "owner": "tucan9389",
                 "repo": "FingertipEstimation-CoreML",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T19:29:08.278Z"
             }
           ],
           "description": null,
@@ -189,7 +199,8 @@
                 "owner": "tucan9389",
                 "repo": "DepthPrediction-CoreML",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T19:29:08.278Z"
             }
           ],
           "description": null,
@@ -211,7 +222,8 @@
                 "owner": "tucan9389",
                 "repo": "SemanticSegmentation-CoreML",
                 "stars": 342
-              }
+              },
+              "first_seen": "2026-08-28T19:29:08.278Z"
             }
           ],
           "description": null,
@@ -237,7 +249,8 @@
             "owner": "motlabs",
             "repo": "dont-be-turtle-ios",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T19:29:08.278Z"
         },
         {
           "node_type": "item",
@@ -252,7 +265,8 @@
             "owner": "tucan9389",
             "repo": "WordRecognition-CoreML-MLKit",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T19:29:08.278Z"
         },
         {
           "children": [
@@ -269,7 +283,8 @@
                 "owner": "tucan9389",
                 "repo": "KeypointAnnotation",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T19:29:08.278Z"
             }
           ],
           "description": null,
@@ -302,7 +317,8 @@
                     "owner": "pytorch",
                     "repo": "examples",
                     "stars": 24016
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:29:08.278Z"
                 }
               ]
             },
@@ -324,7 +340,8 @@
                     "owner": "tensorflow",
                     "repo": "examples",
                     "stars": 8281
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:29:08.278Z"
                 },
                 {
                   "node_type": "item",
@@ -339,7 +356,8 @@
                     "owner": "pytorch",
                     "repo": "ios-demo-app",
                     "stars": 613
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:29:08.278Z"
                 },
                 {
                   "node_type": "item",
@@ -354,7 +372,8 @@
                     "owner": "fritzlabs",
                     "repo": "fritz-examples",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:29:08.278Z"
                 }
               ]
             }
@@ -368,7 +387,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:19:42.303Z",
+    "last_updated": "2026-08-28T19:29:08.278Z",
     "original_repository_info": {
       "archived": false,
       "id": 134490697,
