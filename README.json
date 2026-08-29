@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The example of running Image Classification using Core ML",
+                "homepage": "https://github.com/motlabs/awesome-ml-demos-with-ios",
                 "id": 136997812,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2020-12-04T12:59:00Z",
+                "open_issues": 0,
                 "owner": "tucan9389",
                 "repo": "ImageClassification-CoreML",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:08.278Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MLKit을 사용하여 MobileNet.tflite를 실행시켜본 예제입니다.",
+                "homepage": null,
                 "id": 137035131,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-02-20T03:30:06Z",
+                "open_issues": 0,
                 "owner": "tucan9389",
                 "repo": "MobileNet-MLKit",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:08.278Z"
             }
@@ -51,12 +61,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An example running Object Detection using Core ML (YOLOv8, YOLOv5, YOLOv3, MobileNetV2+SSDLite)",
+                "homepage": "https://github.com/motlabs/awesome-ml-demos-with-ios",
                 "id": 168563766,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-07-01T13:39:41Z",
+                "open_issues": 12,
                 "owner": "tucan9389",
                 "repo": "ObjectDetection-CoreML",
-                "stars": 344
+                "stars": 344,
+                "topics": [
+                  "coreml",
+                  "object-detection",
+                  "ssd-mobilenet",
+                  "yolov3",
+                  "yolov3-tiny",
+                  "yolov5",
+                  "yolov8"
+                ]
               },
               "first_seen": "2026-08-28T19:29:08.278Z"
             },
@@ -67,12 +90,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 171705465,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-02-20T20:05:53Z",
+                "open_issues": 0,
                 "owner": "tucan9389",
                 "repo": "TextDetection-CoreML",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:08.278Z"
             },
@@ -83,12 +111,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 171720159,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-06-25T02:04:52Z",
+                "open_issues": 1,
                 "owner": "tucan9389",
                 "repo": "TextRecognition-MLKit",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:08.278Z"
             },
@@ -99,12 +132,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 177786819,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-03-26T23:50:12Z",
+                "open_issues": 0,
                 "owner": "tucan9389",
                 "repo": "FaceDetection-MLKit",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:08.278Z"
             }
@@ -122,12 +160,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The example project of inferencing Pose Estimation using Core ML",
+                "homepage": "https://github.com/motlabs/awesome-ml-demos-with-ios",
                 "id": 139738360,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-08-13T04:30:11Z",
+                "open_issues": 26,
                 "owner": "tucan9389",
                 "repo": "PoseEstimation-CoreML",
-                "stars": 702
+                "stars": 702,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:08.278Z"
             },
@@ -138,12 +181,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The baseline project for inferencing various Pose Estimation tflite models with TFLiteSwift on iOS",
+                "homepage": "https://github.com/motlabs/awesome-ml-demos-with-ios",
                 "id": 247087396,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2022-09-04T19:17:28Z",
+                "open_issues": 23,
                 "owner": "tucan9389",
                 "repo": "PoseEstimation-TFLiteSwift",
-                "stars": 158
+                "stars": 158,
+                "topics": [
+                  "3d-pose-estimation",
+                  "cpm",
+                  "hourglass",
+                  "ios",
+                  "mobilenetv2",
+                  "on-device",
+                  "openpose",
+                  "pose-matching",
+                  "posenet",
+                  "simplepose",
+                  "tensorflow",
+                  "tensorflow-lite",
+                  "tflite"
+                ]
               },
               "first_seen": "2026-08-28T19:29:08.278Z"
             },
@@ -154,12 +216,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The example of running Pose Estimation using ML Kit",
+                "homepage": "https://github.com/motlabs/iOS-Proejcts-with-ML-Models",
                 "id": 141969792,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-03-11T00:35:30Z",
+                "open_issues": 4,
                 "owner": "tucan9389",
                 "repo": "PoseEstimation-MLKit",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:08.278Z"
             },
@@ -170,12 +237,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Detect fingertip by using machine learning for pose estimation",
+                "homepage": "https://github.com/motlabs/iOS-Proejcts-with-ML-Models",
                 "id": 145089980,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2018-08-28T16:31:51Z",
+                "open_issues": 4,
                 "owner": "tucan9389",
                 "repo": "FingertipEstimation-CoreML",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:08.278Z"
             }
@@ -193,12 +265,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The example of running Depth Prediction using Core ML",
+                "homepage": "https://github.com/motlabs/awesome-ml-demos-with-ios",
                 "id": 197880919,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-06-15T14:32:24Z",
+                "open_issues": 1,
                 "owner": "tucan9389",
                 "repo": "DepthPrediction-CoreML",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "coreml",
+                  "depth-prediction",
+                  "fcrn-depthprediction",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T19:29:08.278Z"
             }
@@ -216,12 +298,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The example project of inferencing Semantic Segementation using Core ML",
+                "homepage": "https://github.com/motlabs/awesome-ml-demos-with-ios",
                 "id": 197925144,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-03-27T11:51:25Z",
+                "open_issues": 4,
                 "owner": "tucan9389",
                 "repo": "SemanticSegmentation-CoreML",
-                "stars": 342
+                "stars": 342,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:08.278Z"
             }
@@ -243,12 +330,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 145299783,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-08-29T08:30:12Z",
+            "open_issues": 2,
             "owner": "motlabs",
             "repo": "dont-be-turtle-ios",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:08.278Z"
         },
@@ -259,12 +351,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detect character, find a word what I point and then recognize the word using Core ML and ML Kit.",
+            "homepage": "https://github.com/motlabs/iOS-Proejcts-with-ML-Models",
             "id": 143398521,
             "language": null,
+            "license": null,
             "last_commit": "2018-08-03T08:12:05Z",
+            "open_issues": 1,
             "owner": "tucan9389",
             "repo": "WordRecognition-CoreML-MLKit",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:08.278Z"
         },
@@ -277,12 +374,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 144368850,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2020-02-29T12:57:22Z",
+                "open_issues": 5,
                 "owner": "tucan9389",
                 "repo": "KeypointAnnotation",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:29:08.278Z"
             }
@@ -311,12 +413,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.",
+                    "homepage": "https://pytorch.org/examples",
                     "id": 66424871,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2025-09-01T17:21:47Z",
+                    "open_issues": 252,
                     "owner": "pytorch",
                     "repo": "examples",
-                    "stars": 24016
+                    "stars": 24018,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:29:08.278Z"
                 }
@@ -334,12 +441,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TensorFlow examples",
+                    "homepage": "https://www.tensorflow.org",
                     "id": 141200054,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T22:03:04Z",
+                    "open_issues": 134,
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8281
+                    "stars": 8281,
+                    "topics": [
+                      "tensorflow",
+                      "tensorflow-examples"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:29:08.278Z"
                 },
@@ -350,12 +465,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "PyTorch iOS examples",
+                    "homepage": null,
                     "id": 211321426,
                     "language": "Swift",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-08-28T00:06:09Z",
+                    "open_issues": 45,
                     "owner": "pytorch",
                     "repo": "ios-demo-app",
-                    "stars": 613
+                    "stars": 613,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:29:08.278Z"
                 },
@@ -366,12 +486,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code examples for different Fritz AI uses",
+                    "homepage": null,
                     "id": 624867928,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2023-04-07T13:06:28Z",
+                    "open_issues": 0,
                     "owner": "fritzlabs",
                     "repo": "fritz-examples",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:29:08.278Z"
                 }
@@ -387,15 +512,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:29:08.278Z",
+    "last_updated": "2026-08-29T04:36:20.888Z",
     "original_repository_info": {
       "archived": false,
+      "description": "The challenge projects for Inferencing machine learning models on iOS",
+      "homepage": null,
       "id": 134490697,
       "language": "Python",
+      "license": "MIT",
       "last_commit": "2021-03-21T18:31:23Z",
+      "open_issues": 12,
       "owner": "tucan9389",
       "repo": "awesome-ml-demos-with-ios",
-      "stars": 1291
+      "stars": 1291,
+      "topics": [
+        "awesome",
+        "coreml",
+        "demo",
+        "inference",
+        "ios",
+        "machine-learning",
+        "mlkit",
+        "tensorflow",
+        "tensorflow-lite"
+      ]
     },
     "original_repository_sha": "803759305ac737ab1712d7f1056d40c0724a6830",
     "enhanced_repository": "enhansome/enhansome-ml-demos-with-ios",
