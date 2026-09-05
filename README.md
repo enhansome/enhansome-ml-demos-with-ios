@@ -110,7 +110,7 @@ Once the compatible model is prepared, you can run the inference using the ML fr
 
 | Name                                                                                                                               | DEMO                                                                                                                                                                                                                                                                             | Note |
 | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| [SemanticSegmentation-CoreML](https://github.com/tucan9389/SemanticSegmentation-CoreML) ⭐ 342 \| 🐛 4 \| 🌐 Swift \| 📅 2021-03-27 | <p align="center"><img src="https://user-images.githubusercontent.com/37643248/99242802-167ad280-2843-11eb-959a-5fe3b169d8f0.gif" width="200"/><img src="https://user-images.githubusercontent.com/37643248/110972921-e8943d80-839f-11eb-9559-2a32d3b56de0.gif" width=200px></p> | -    |
+| [SemanticSegmentation-CoreML](https://github.com/tucan9389/SemanticSegmentation-CoreML) ⭐ 341 \| 🐛 4 \| 🌐 Swift \| 📅 2021-03-27 | <p align="center"><img src="https://user-images.githubusercontent.com/37643248/99242802-167ad280-2843-11eb-959a-5fe3b169d8f0.gif" width="200"/><img src="https://user-images.githubusercontent.com/37643248/110972921-e8943d80-839f-11eb-9559-2a32d3b56de0.gif" width=200px></p> | -    |
 
 ## Application Projects
 
@@ -283,7 +283,7 @@ You can see the measured latency time for inference or execution and FPS on the 
 ### Examples
 
 * Training
-  * Pytorch examples: <https://github.com/pytorch/examples> ⭐ 24,030 | 🐛 253 | 🌐 Python | 📅 2025-09-01
+  * Pytorch examples: <https://github.com/pytorch/examples> ⭐ 24,031 | 🐛 253 | 🌐 Python | 📅 2025-09-01
   * Keras examples: <https://keras.io/examples/>
 * Inference
   * TFLite examples: <https://github.com/tensorflow/examples/tree/master/lite> ⭐ 8,281 | 🐛 134 | 🌐 Jupyter Notebook | 📅 2026-08-31
@@ -296,4 +296,4 @@ You can see the measured latency time for inference or execution and FPS on the 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
