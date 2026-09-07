@@ -422,7 +422,7 @@
                     "open_issues": 253,
                     "owner": "pytorch",
                     "repo": "examples",
-                    "stars": 24035,
+                    "stars": 24033,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:29:08.278Z"
@@ -474,7 +474,7 @@
                     "open_issues": 45,
                     "owner": "pytorch",
                     "repo": "ios-demo-app",
-                    "stars": 613,
+                    "stars": 614,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:29:08.278Z"
@@ -512,7 +512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T11:41:34.436Z",
+    "last_updated": "2026-09-07T13:33:51.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "The challenge projects for Inferencing machine learning models on iOS",
