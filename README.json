@@ -422,7 +422,7 @@
                     "open_issues": 254,
                     "owner": "pytorch",
                     "repo": "examples",
-                    "stars": 24051,
+                    "stars": 24052,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:29:08.278Z"
@@ -512,7 +512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T12:46:30.490Z",
+    "last_updated": "2026-09-25T12:49:41.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "The challenge projects for Inferencing machine learning models on iOS",
