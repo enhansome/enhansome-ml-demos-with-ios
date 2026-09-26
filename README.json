@@ -446,7 +446,7 @@
                     "id": 141200054,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-31T20:52:54Z",
+                    "last_commit": "2026-09-26T10:59:32Z",
                     "open_issues": 134,
                     "owner": "tensorflow",
                     "repo": "examples",
@@ -512,7 +512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T12:49:41.394Z",
+    "last_updated": "2026-09-26T12:17:36.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "The challenge projects for Inferencing machine learning models on iOS",
@@ -524,7 +524,7 @@
       "open_issues": 12,
       "owner": "tucan9389",
       "repo": "awesome-ml-demos-with-ios",
-      "stars": 1292,
+      "stars": 1293,
       "topics": [
         "awesome",
         "coreml",
