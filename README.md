@@ -104,7 +104,7 @@ Once the compatible model is prepared, you can run the inference using the ML fr
 
 |                                                                                                                          |                                                                                            |   |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | - |
-| [DepthPrediction-CoreML](https://github.com/tucan9389/DepthPrediction-CoreML) ⭐ 139 \| 🐛 1 \| 🌐 Swift \| 📅 2021-06-15 | <p align="center"><img src="Resource/190727-depthprediction-demo001.gif" width="200"/></p> | - |
+| [DepthPrediction-CoreML](https://github.com/tucan9389/DepthPrediction-CoreML) ⭐ 138 \| 🐛 1 \| 🌐 Swift \| 📅 2021-06-15 | <p align="center"><img src="Resource/190727-depthprediction-demo001.gif" width="200"/></p> | - |
 
 ### Semantic Segmentation
 
@@ -283,10 +283,10 @@ You can see the measured latency time for inference or execution and FPS on the 
 ### Examples
 
 * Training
-  * Pytorch examples: <https://github.com/pytorch/examples> ⭐ 24,052 | 🐛 254 | 🌐 Python | 📅 2025-09-01
+  * Pytorch examples: <https://github.com/pytorch/examples> ⭐ 24,053 | 🐛 254 | 🌐 Python | 📅 2025-09-01
   * Keras examples: <https://keras.io/examples/>
 * Inference
-  * TFLite examples: <https://github.com/tensorflow/examples/tree/master/lite> ⭐ 8,280 | 🐛 134 | 🌐 Jupyter Notebook | 📅 2026-10-01
+  * TFLite examples: <https://github.com/tensorflow/examples/tree/master/lite> ⭐ 8,279 | 🐛 134 | 🌐 Jupyter Notebook | 📅 2026-10-01
   * Pytorch Mobile iOS example: <https://github.com/pytorch/ios-demo-app> ⚠️ Archived
   * FritzLabs examples: <https://github.com/fritzlabs/fritz-examples> ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2023-04-07
 * Models
@@ -296,4 +296,4 @@ You can see the measured latency time for inference or execution and FPS on the 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

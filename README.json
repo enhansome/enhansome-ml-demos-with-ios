@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "ImageClassification-CoreML",
-              "description": "-",
+              "description": "tucan9389/ImageClassification-CoreML",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "MobileNet-MLKit",
-              "description": "-",
+              "description": "tucan9389/MobileNet-MLKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -57,7 +57,7 @@
             {
               "node_type": "item",
               "title": "ObjectDetection-CoreML",
-              "description": "-",
+              "description": "tucan9389/ObjectDetection-CoreML",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -86,7 +86,7 @@
             {
               "node_type": "item",
               "title": "TextDetection-CoreML",
-              "description": "-",
+              "description": "tucan9389/TextDetection-CoreML",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -107,7 +107,7 @@
             {
               "node_type": "item",
               "title": "TextRecognition-MLKit",
-              "description": "-",
+              "description": "tucan9389/TextRecognition-MLKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -128,7 +128,7 @@
             {
               "node_type": "item",
               "title": "FaceDetection-MLKit",
-              "description": "-",
+              "description": "tucan9389/FaceDetection-MLKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -156,7 +156,7 @@
             {
               "node_type": "item",
               "title": "PoseEstimation-CoreML",
-              "description": "-",
+              "description": "tucan9389/PoseEstimation-CoreML",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -177,7 +177,7 @@
             {
               "node_type": "item",
               "title": "PoseEstimation-TFLiteSwift",
-              "description": "-",
+              "description": "tucan9389/PoseEstimation-TFLiteSwift",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -212,7 +212,7 @@
             {
               "node_type": "item",
               "title": "PoseEstimation-MLKit",
-              "description": "-",
+              "description": "tucan9389/PoseEstimation-MLKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -233,7 +233,7 @@
             {
               "node_type": "item",
               "title": "FingertipEstimation-CoreML",
-              "description": "-",
+              "description": "tucan9389/FingertipEstimation-CoreML",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -261,7 +261,7 @@
             {
               "node_type": "item",
               "title": "DepthPrediction-CoreML",
-              "description": "-",
+              "description": "tucan9389/DepthPrediction-CoreML",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -274,7 +274,7 @@
                 "open_issues": 1,
                 "owner": "tucan9389",
                 "repo": "DepthPrediction-CoreML",
-                "stars": 139,
+                "stars": 138,
                 "topics": [
                   "coreml",
                   "depth-prediction",
@@ -294,7 +294,7 @@
             {
               "node_type": "item",
               "title": "SemanticSegmentation-CoreML",
-              "description": "-",
+              "description": "tucan9389/SemanticSegmentation-CoreML",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -326,7 +326,7 @@
         {
           "node_type": "item",
           "title": "dont-be-turtle-ios",
-          "description": "-",
+          "description": "motlabs/dont-be-turtle-ios",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -409,7 +409,7 @@
                 {
                   "node_type": "item",
                   "title": "Pytorch examples: https://github.com/pytorch/examples",
-                  "description": null,
+                  "description": "pytorch/examples",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -422,7 +422,7 @@
                     "open_issues": 254,
                     "owner": "pytorch",
                     "repo": "examples",
-                    "stars": 24052,
+                    "stars": 24053,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:29:08.278Z"
@@ -437,7 +437,7 @@
                 {
                   "node_type": "item",
                   "title": "TFLite examples: https://github.com/tensorflow/examples/tree/master/lite",
-                  "description": null,
+                  "description": "tensorflow/examples",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -450,7 +450,7 @@
                     "open_issues": 134,
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8280,
+                    "stars": 8279,
                     "topics": [
                       "tensorflow",
                       "tensorflow-examples"
@@ -461,7 +461,7 @@
                 {
                   "node_type": "item",
                   "title": "Pytorch Mobile iOS example: https://github.com/pytorch/ios-demo-app",
-                  "description": null,
+                  "description": "pytorch/ios-demo-app",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -482,7 +482,7 @@
                 {
                   "node_type": "item",
                   "title": "FritzLabs examples: https://github.com/fritzlabs/fritz-examples",
-                  "description": null,
+                  "description": "fritzlabs/fritz-examples",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -512,7 +512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:57:17.062Z",
+    "last_updated": "2026-10-03T04:58:29.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "The challenge projects for Inferencing machine learning models on iOS",
