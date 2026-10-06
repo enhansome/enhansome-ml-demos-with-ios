@@ -86,7 +86,7 @@ Once the compatible model is prepared, you can run the inference using the ML fr
 
 | Name                                                                                                                      | DEMO                                                                                      | Note |
 | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---- |
-| [ObjectDetection-CoreML](https://github.com/tucan9389/ObjectDetection-CoreML) ⭐ 344 \| 🐛 12 \| 🌐 Swift \| 📅 2023-07-01 | <p align="center"><img src="Resource/SSDMobileNetV2-DEMO.gif" width="200"/></p>           | -    |
+| [ObjectDetection-CoreML](https://github.com/tucan9389/ObjectDetection-CoreML) ⭐ 345 \| 🐛 12 \| 🌐 Swift \| 📅 2023-07-01 | <p align="center"><img src="Resource/SSDMobileNetV2-DEMO.gif" width="200"/></p>           | -    |
 | [TextDetection-CoreML](https://github.com/tucan9389/TextDetection-CoreML) ⭐ 84 \| 🐛 0 \| 🌐 Swift \| 📅 2019-02-20       | <p align="center"><img src="Resource/TextDetection-CoreML_DEMO001.gif" width="200"/></p>  | -    |
 | [TextRecognition-MLKit](https://github.com/tucan9389/TextRecognition-MLKit) ⭐ 98 \| 🐛 1 \| 🌐 Swift \| 📅 2019-06-25     | <p align="center"><img src="Resource/TextRecognition-MLKit_DEMO002.gif" width="200"/></p> | -    |
 | [FaceDetection-MLKit](https://github.com/tucan9389/FaceDetection-MLKit) ⭐ 22 \| 🐛 0 \| 🌐 Swift \| 📅 2019-03-26         | <p align="center"><img src="Resource/FaceDetection-MLKit-DEMO.gif" width="200"/></p>      | -    |
@@ -95,7 +95,7 @@ Once the compatible model is prepared, you can run the inference using the ML fr
 
 | Name                                                                                                                              | DEMO                                                                                                                                                                                                                                                      | Note |
 | --------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| [PoseEstimation-CoreML](https://github.com/tucan9389/PoseEstimation-CoreML) ⭐ 702 \| 🐛 26 \| 🌐 Swift \| 📅 2021-08-13           | <p align="center"><img src="Resource/180801-poseestimation-demo.gif" width="200"/></p>                                                                                                                                                                    | -    |
+| [PoseEstimation-CoreML](https://github.com/tucan9389/PoseEstimation-CoreML) ⭐ 703 \| 🐛 26 \| 🌐 Swift \| 📅 2021-08-13           | <p align="center"><img src="Resource/180801-poseestimation-demo.gif" width="200"/></p>                                                                                                                                                                    | -    |
 | [PoseEstimation-TFLiteSwift](https://github.com/tucan9389/PoseEstimation-TFLiteSwift) ⭐ 158 \| 🐛 23 \| 🌐 Swift \| 📅 2022-09-04 | <img src="https://user-images.githubusercontent.com/37643248/77227994-99ba2a80-6bc7-11ea-9b08-9bb57723bc42.gif" width=200px><img src="https://user-images.githubusercontent.com/37643248/110994933-e68ca780-83bc-11eb-8331-d827e19d2d36.gif" width=200px> | -    |
 | [PoseEstimation-MLKit](https://github.com/tucan9389/PoseEstimation-MLKit) ⭐ 18 \| 🐛 4 \| 🌐 Swift \| 📅 2019-03-11               | <p align="center"><img src="Resource/PoseEstimation-MLKit-hourglass.gif" width="200"/></p>                                                                                                                                                                | -    |
 | [FingertipEstimation-CoreML](https://github.com/tucan9389/FingertipEstimation-CoreML) ⭐ 70 \| 🐛 4 \| 🌐 Swift \| 📅 2018-08-28   | <p align="center"><img src="Resource/fingertip_estimation_demo003.gif" width="200"/></p>                                                                                                                                                                  | -    |
@@ -283,7 +283,7 @@ You can see the measured latency time for inference or execution and FPS on the 
 ### Examples
 
 * Training
-  * Pytorch examples: <https://github.com/pytorch/examples> ⭐ 24,055 | 🐛 254 | 🌐 Python | 📅 2025-09-01
+  * Pytorch examples: <https://github.com/pytorch/examples> ⭐ 24,056 | 🐛 254 | 🌐 Python | 📅 2025-09-01
   * Keras examples: <https://keras.io/examples/>
 * Inference
   * TFLite examples: <https://github.com/tensorflow/examples/tree/master/lite> ⭐ 8,279 | 🐛 134 | 🌐 Jupyter Notebook | 📅 2026-10-05
@@ -296,4 +296,4 @@ You can see the measured latency time for inference or execution and FPS on the 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

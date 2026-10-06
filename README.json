@@ -70,7 +70,7 @@
                 "open_issues": 12,
                 "owner": "tucan9389",
                 "repo": "ObjectDetection-CoreML",
-                "stars": 344,
+                "stars": 345,
                 "topics": [
                   "coreml",
                   "object-detection",
@@ -169,7 +169,7 @@
                 "open_issues": 26,
                 "owner": "tucan9389",
                 "repo": "PoseEstimation-CoreML",
-                "stars": 702,
+                "stars": 703,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:08.278Z"
@@ -422,7 +422,7 @@
                     "open_issues": 254,
                     "owner": "pytorch",
                     "repo": "examples",
-                    "stars": 24055,
+                    "stars": 24056,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:29:08.278Z"
@@ -446,7 +446,7 @@
                     "id": 141200054,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-05T11:23:22Z",
+                    "last_commit": "2026-10-05T20:40:13Z",
                     "open_issues": 134,
                     "owner": "tensorflow",
                     "repo": "examples",
@@ -512,7 +512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T16:10:54.062Z",
+    "last_updated": "2026-10-06T10:57:57.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "The challenge projects for Inferencing machine learning models on iOS",
