@@ -419,10 +419,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2025-09-01T17:21:47Z",
-                    "open_issues": 254,
+                    "open_issues": 255,
                     "owner": "pytorch",
                     "repo": "examples",
-                    "stars": 24072,
+                    "stars": 24074,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:29:08.278Z"
@@ -512,7 +512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:06:28.858Z",
+    "last_updated": "2026-10-19T14:45:59.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "The challenge projects for Inferencing machine learning models on iOS",
