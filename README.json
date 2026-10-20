@@ -419,7 +419,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2025-09-01T17:21:47Z",
-                    "open_issues": 255,
+                    "open_issues": 256,
                     "owner": "pytorch",
                     "repo": "examples",
                     "stars": 24074,
@@ -474,7 +474,7 @@
                     "open_issues": 45,
                     "owner": "pytorch",
                     "repo": "ios-demo-app",
-                    "stars": 614,
+                    "stars": 613,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:29:08.278Z"
@@ -512,7 +512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T14:45:59.313Z",
+    "last_updated": "2026-10-20T12:47:51.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "The challenge projects for Inferencing machine learning models on iOS",
@@ -524,7 +524,7 @@
       "open_issues": 12,
       "owner": "tucan9389",
       "repo": "awesome-ml-demos-with-ios",
-      "stars": 1295,
+      "stars": 1294,
       "topics": [
         "awesome",
         "coreml",
