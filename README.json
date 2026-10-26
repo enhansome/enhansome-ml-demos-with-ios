@@ -70,7 +70,7 @@
                 "open_issues": 12,
                 "owner": "tucan9389",
                 "repo": "ObjectDetection-CoreML",
-                "stars": 345,
+                "stars": 346,
                 "topics": [
                   "coreml",
                   "object-detection",
@@ -422,7 +422,7 @@
                     "open_issues": 256,
                     "owner": "pytorch",
                     "repo": "examples",
-                    "stars": 24077,
+                    "stars": 24078,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:29:08.278Z"
@@ -512,7 +512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T12:38:09.259Z",
+    "last_updated": "2026-10-26T14:23:50.205Z",
     "original_repository_info": {
       "archived": false,
       "description": "The challenge projects for Inferencing machine learning models on iOS",
@@ -524,7 +524,7 @@
       "open_issues": 12,
       "owner": "tucan9389",
       "repo": "awesome-ml-demos-with-ios",
-      "stars": 1294,
+      "stars": 1295,
       "topics": [
         "awesome",
         "coreml",

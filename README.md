@@ -2,7 +2,7 @@
 <img src="Resource/awesome-ml-demos-with-ios-logo.png" width="187" height="174"/>
 </p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/motlabs/awesome-ml-demos-with-ios) ⭐ 1,294 | 🐛 12 | 🌐 Python | 📅 2021-03-21 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmotlabs%2Fawesome-ml-demos-with-ios) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GIF PRs More Welcome](https://img.shields.io/badge/GIF--PRs-WELCOME!-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/motlabs/awesome-ml-demos-with-ios) ⭐ 1,295 | 🐛 12 | 🌐 Python | 📅 2021-03-21 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmotlabs%2Fawesome-ml-demos-with-ios) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GIF PRs More Welcome](https://img.shields.io/badge/GIF--PRs-WELCOME!-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 > This repo was moved from [@motlabs](https://github.com/motlabs) group. Thanks for [@jwkanggist](https://github.com/jwkanggist) who is a leader of motlabs community.
 
@@ -10,7 +10,7 @@
 
 We tackle the challenge of using machine learning models on iOS via Core ML and ML Kit (TensorFlow Lite).
 
-[한국어 README](https://github.com/motlabs/iOS-Proejcts-with-ML-Models/blob/master/README_kr.md) ⭐ 1,294 | 🐛 12 | 🌐 Python | 📅 2021-03-21
+[한국어 README](https://github.com/motlabs/iOS-Proejcts-with-ML-Models/blob/master/README_kr.md) ⭐ 1,295 | 🐛 12 | 🌐 Python | 📅 2021-03-21
 
 ## Contents
 
@@ -86,7 +86,7 @@ Once the compatible model is prepared, you can run the inference using the ML fr
 
 | Name                                                                                                                      | DEMO                                                                                      | Note |
 | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---- |
-| [ObjectDetection-CoreML](https://github.com/tucan9389/ObjectDetection-CoreML) ⭐ 345 \| 🐛 12 \| 🌐 Swift \| 📅 2023-07-01 | <p align="center"><img src="Resource/SSDMobileNetV2-DEMO.gif" width="200"/></p>           | -    |
+| [ObjectDetection-CoreML](https://github.com/tucan9389/ObjectDetection-CoreML) ⭐ 346 \| 🐛 12 \| 🌐 Swift \| 📅 2023-07-01 | <p align="center"><img src="Resource/SSDMobileNetV2-DEMO.gif" width="200"/></p>           | -    |
 | [TextDetection-CoreML](https://github.com/tucan9389/TextDetection-CoreML) ⭐ 84 \| 🐛 0 \| 🌐 Swift \| 📅 2019-02-20       | <p align="center"><img src="Resource/TextDetection-CoreML_DEMO001.gif" width="200"/></p>  | -    |
 | [TextRecognition-MLKit](https://github.com/tucan9389/TextRecognition-MLKit) ⭐ 98 \| 🐛 1 \| 🌐 Swift \| 📅 2019-06-25     | <p align="center"><img src="Resource/TextRecognition-MLKit_DEMO002.gif" width="200"/></p> | -    |
 | [FaceDetection-MLKit](https://github.com/tucan9389/FaceDetection-MLKit) ⭐ 22 \| 🐛 0 \| 🌐 Swift \| 📅 2019-03-26         | <p align="center"><img src="Resource/FaceDetection-MLKit-DEMO.gif" width="200"/></p>      | -    |
@@ -283,7 +283,7 @@ You can see the measured latency time for inference or execution and FPS on the 
 ### Examples
 
 * Training
-  * Pytorch examples: <https://github.com/pytorch/examples> ⭐ 24,077 | 🐛 256 | 🌐 Python | 📅 2025-09-01
+  * Pytorch examples: <https://github.com/pytorch/examples> ⭐ 24,078 | 🐛 256 | 🌐 Python | 📅 2025-09-01
   * Keras examples: <https://keras.io/examples/>
 * Inference
   * TFLite examples: <https://github.com/tensorflow/examples/tree/master/lite> ⭐ 8,279 | 🐛 134 | 🌐 Jupyter Notebook | 📅 2026-10-05
@@ -296,4 +296,4 @@ You can see the measured latency time for inference or execution and FPS on the 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
