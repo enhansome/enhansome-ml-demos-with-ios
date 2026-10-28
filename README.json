@@ -190,7 +190,7 @@
                 "open_issues": 23,
                 "owner": "tucan9389",
                 "repo": "PoseEstimation-TFLiteSwift",
-                "stars": 158,
+                "stars": 157,
                 "topics": [
                   "3d-pose-estimation",
                   "cpm",
@@ -422,7 +422,7 @@
                     "open_issues": 256,
                     "owner": "pytorch",
                     "repo": "examples",
-                    "stars": 24077,
+                    "stars": 24080,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:29:08.278Z"
@@ -450,7 +450,7 @@
                     "open_issues": 134,
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8279,
+                    "stars": 8277,
                     "topics": [
                       "tensorflow",
                       "tensorflow-examples"
@@ -512,7 +512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T13:22:24.852Z",
+    "last_updated": "2026-10-28T14:06:58.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "The challenge projects for Inferencing machine learning models on iOS",
@@ -524,7 +524,7 @@
       "open_issues": 12,
       "owner": "tucan9389",
       "repo": "awesome-ml-demos-with-ios",
-      "stars": 1295,
+      "stars": 1294,
       "topics": [
         "awesome",
         "coreml",
