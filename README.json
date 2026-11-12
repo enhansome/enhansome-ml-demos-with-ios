@@ -422,7 +422,7 @@
                     "open_issues": 256,
                     "owner": "pytorch",
                     "repo": "examples",
-                    "stars": 24088,
+                    "stars": 24090,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:29:08.278Z"
@@ -450,7 +450,7 @@
                     "open_issues": 135,
                     "owner": "tensorflow",
                     "repo": "examples",
-                    "stars": 8277,
+                    "stars": 8276,
                     "topics": [
                       "tensorflow",
                       "tensorflow-examples"
@@ -474,7 +474,7 @@
                     "open_issues": 45,
                     "owner": "pytorch",
                     "repo": "ios-demo-app",
-                    "stars": 613,
+                    "stars": 614,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:29:08.278Z"
@@ -512,7 +512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T15:26:11.267Z",
+    "last_updated": "2026-11-12T16:03:17.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "The challenge projects for Inferencing machine learning models on iOS",
